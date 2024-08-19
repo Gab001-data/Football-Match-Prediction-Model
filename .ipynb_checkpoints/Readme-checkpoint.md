@@ -28,6 +28,8 @@ execute the below line of code in your notebook to install the latest version of
 ```
 
 # Usage
+---
+
 ### Data Preparation
 perform the following preprocessing on the dataset to make it suitable for the model and for optimum performance.
 
@@ -44,5 +46,8 @@ _Model selection:_ Three classification models namely; SVC-linear, SVC-rbf, and 
 The models predictive performance on test sets is evaluated using the classification report metric. this provide a summary report contain model accuracy, f1_score, precision, and recall.
 
 ### Result
-[![model_performance](image.png)]
+[![model_performance](model_evaluation.png)]
+
+
+Goto [Model](https://github.com/Gab001-data/Football-Match-Prediction-Model/blob/main/PL_match_prediction.ipynb)
 
